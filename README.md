@@ -1,4 +1,4 @@
-# UdacityAlumniNetwork
+# Udabuddy
 To make a web app for Udacity Alumni interaction. 
 http://udabuddy.herokuapp.com/
 
